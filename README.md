@@ -53,7 +53,7 @@ A clean and responsive **Contact Us** form built using HTML, CSS, and JavaScript
 
 ### 4️⃣ Get Your Public API Key
 - Go to **Account → API Keys**
-- Copy your **Public Key**, like:  
+- Copy your **Public Key**  
 
 ---
 
