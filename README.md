@@ -31,8 +31,7 @@ A clean and responsive **Contact Us** form built using HTML, CSS, and JavaScript
 - ✅ **Check the box**: “Send email on your behalf”
 - Click **Continue**
 
-> 🔐 You'll receive your **Service ID** like:  
-> `service_abc123`
+> 🔐 You'll receive your **Service ID**:  
 
 ---
 
