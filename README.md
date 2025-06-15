@@ -14,9 +14,6 @@ A clean and responsive **Contact Us** form built using HTML, CSS, and JavaScript
 
 ---
 
-## 🧪 How to Run the Project
-
----
 
 ## 🔧 How to Set Up EmailJS (Step-by-Step)
 
@@ -52,14 +49,12 @@ A clean and responsive **Contact Us** form built using HTML, CSS, and JavaScript
 
 
 > 💡 Save it and copy your **Template ID**:  
-> `template_xyz456`
 
 ---
 
 ### 4️⃣ Get Your Public API Key
 - Go to **Account → API Keys**
 - Copy your **Public Key**, like:  
-  `Xj6t5k2D9aB12W`
 
 ---
 
